@@ -1,0 +1,327 @@
+﻿support,itemsets
+0.0018732735720257813,frozenset({'agro_industry_and_commerce'})
+0.0025611988950860966,frozenset({'air_conditioning'})
+0.002042609036163705,frozenset({'art'})
+0.00024341972969826536,frozenset({'arts_and_craftmanship'})
+0.0036512959454739805,frozenset({'audio'})
+0.0401219215341793,frozenset({'auto'})
+0.02949612115952459,frozenset({'baby'})
+0.09712447214960788,frozenset({'bed_bath_table'})
+0.005196482055732535,frozenset({'books_general_interest'})
+0.0005291733254310116,frozenset({'books_imported'})
+0.0026987839596981597,frozenset({'books_technical'})
+0.0001270015981034428,frozenset({'cds_dvds_musicals'})
+0.0013017663805602888,frozenset({'christmas_supplies'})
+0.0006667583900430747,frozenset({'cine_photo'})
+0.0018415231724999207,frozenset({'computers'})
+0.06877136537301427,frozenset({'computers_accessories'})
+0.010678717707197815,frozenset({'consoles_games'})
+0.0077365140178013905,frozenset({'construction_tools_construction'})
+0.0025294484955602358,frozenset({'construction_tools_lights'})
+0.001672187708361997,frozenset({'construction_tools_safety'})
+0.03737022024193804,frozenset({'cool_stuff'})
+0.0020108586366378444,frozenset({'costruction_tools_garden'})
+0.000994845851810302,frozenset({'costruction_tools_tools'})
+0.0002645866627155058,frozenset({'diapers_and_hygiene'})
+0.003037454887974007,frozenset({'drinks'})
+0.0005926741244827331,frozenset({'dvds_blu_ray'})
+0.026437499338533343,frozenset({'electronics'})
+0.0003810047943103284,frozenset({'fashio_female_clothing'})
+0.019177241313619864,frozenset({'fashion_bags_accessories'})
+7.408426556034164e-05,frozenset({'fashion_childrens_clothes'})
+0.0011112639834051246,frozenset({'fashion_male_clothing'})
+0.002444780763491274,frozenset({'fashion_shoes'})
+0.00027517012922412607,frozenset({'fashion_sport'})
+0.0012276821149999472,frozenset({'fashion_underwear_beach'})
+0.0022119445003016287,frozenset({'fixed_telephony'})
+0.00029633706224136655,frozenset({'flowers'})
+0.004624974864267042,frozenset({'food'})
+0.0023389460984050716,frozenset({'food_drink'})
+0.000952511985775821,frozenset({'furniture_bedroom'})
+0.06625250034396266,frozenset({'furniture_decor'})
+0.004328637802025676,frozenset({'furniture_living_room'})
+0.00039158826081894864,frozenset({'furniture_mattress_and_upholstery'})
+0.03628012319155016,frozenset({'garden_tools'})
+0.09104956237365987,frozenset({'health_beauty'})
+0.007874099082413454,frozenset({'home_appliances'})
+0.0023918634309481727,frozenset({'home_appliances_2'})
+0.00024341972969826536,frozenset({'home_comfort_2'})
+0.004127551938361891,frozenset({'home_confort'})
+0.005090647390646332,frozenset({'home_construction'})
+0.060421010297712914,frozenset({'housewares'})
+0.0024236138304740335,frozenset({'industry_commerce_and_business'})
+0.0025294484955602358,frozenset({'kitchen_dining_laundry_garden_furniture'})
+0.0001270015981034428,frozenset({'la_cuisine'})
+0.010742218506249537,frozenset({'luggage_accessories'})
+0.0028787028903447037,frozenset({'market_place'})
+0.0004021717273275689,frozenset({'music'})
+0.006402997237715241,frozenset({'musical_instruments'})
+0.01316583233672357,frozenset({'office_furniture'})
+0.0004021717273275689,frozenset({'party_supplies'})
+0.032575909913533076,frozenset({'perfumery'})
+0.017780223734481994,frozenset({'pet_shop'})
+2.1166933017240467e-05,frozenset({'security_and_services'})
+0.001449934911680972,frozenset({'signaling_and_security'})
+0.006392413771206621,frozenset({'small_appliances'})
+0.0007620095886206568,frozenset({'small_appliances_home_oven_and_coffee'})
+0.07922783028353107,frozenset({'sports_leisure'})
+0.023823383110904147,frozenset({'stationery'})
+0.000814926921163758,frozenset({'tablets_printing_image'})
+0.04306412522357573,frozenset({'telephony'})
+0.03994200260353276,frozenset({'toys'})
+0.057701059404997514,frozenset({'watches_gifts'})
+1.0583466508620234e-05,"frozenset({'air_conditioning', 'computers_accessories'})"
+1.0583466508620234e-05,"frozenset({'sports_leisure', 'air_conditioning'})"
+5.2917332543101164e-05,"frozenset({'art', 'furniture_decor'})"
+1.0583466508620234e-05,"frozenset({'art', 'stationery'})"
+1.0583466508620234e-05,"frozenset({'arts_and_craftmanship', 'garden_tools'})"
+1.0583466508620234e-05,"frozenset({'arts_and_craftmanship', 'toys'})"
+6.35007990517214e-05,"frozenset({'watches_gifts', 'audio'})"
+2.1166933017240467e-05,"frozenset({'baby', 'auto'})"
+2.1166933017240467e-05,"frozenset({'bed_bath_table', 'auto'})"
+1.0583466508620234e-05,"frozenset({'christmas_supplies', 'auto'})"
+5.2917332543101164e-05,"frozenset({'computers_accessories', 'auto'})"
+1.0583466508620234e-05,"frozenset({'consoles_games', 'auto'})"
+3.17503995258607e-05,"frozenset({'construction_tools_construction', 'auto'})"
+3.17503995258607e-05,"frozenset({'cool_stuff', 'auto'})"
+1.0583466508620234e-05,"frozenset({'drinks', 'auto'})"
+1.0583466508620234e-05,"frozenset({'electronics', 'auto'})"
+1.0583466508620234e-05,"frozenset({'fashion_bags_accessories', 'auto'})"
+2.1166933017240467e-05,"frozenset({'furniture_decor', 'auto'})"
+2.1166933017240467e-05,"frozenset({'garden_tools', 'auto'})"
+1.0583466508620234e-05,"frozenset({'health_beauty', 'auto'})"
+1.0583466508620234e-05,"frozenset({'home_comfort_2', 'auto'})"
+2.1166933017240467e-05,"frozenset({'housewares', 'auto'})"
+1.0583466508620234e-05,"frozenset({'luggage_accessories', 'auto'})"
+1.0583466508620234e-05,"frozenset({'musical_instruments', 'auto'})"
+3.17503995258607e-05,"frozenset({'sports_leisure', 'auto'})"
+3.17503995258607e-05,"frozenset({'telephony', 'auto'})"
+1.0583466508620234e-05,"frozenset({'watches_gifts', 'auto'})"
+0.00017991893064654398,"frozenset({'bed_bath_table', 'baby'})"
+1.0583466508620234e-05,"frozenset({'books_general_interest', 'baby'})"
+1.0583466508620234e-05,"frozenset({'construction_tools_lights', 'baby'})"
+1.0583466508620234e-05,"frozenset({'baby', 'construction_tools_safety'})"
+0.00021166933017240466,"frozenset({'cool_stuff', 'baby'})"
+2.1166933017240467e-05,"frozenset({'fashion_bags_accessories', 'baby'})"
+2.1166933017240467e-05,"frozenset({'fashion_shoes', 'baby'})"
+1.0583466508620234e-05,"frozenset({'furniture_bedroom', 'baby'})"
+0.0001270015981034428,"frozenset({'furniture_decor', 'baby'})"
+1.0583466508620234e-05,"frozenset({'furniture_living_room', 'baby'})"
+4.2333866034480934e-05,"frozenset({'garden_tools', 'baby'})"
+1.0583466508620234e-05,"frozenset({'health_beauty', 'baby'})"
+5.2917332543101164e-05,"frozenset({'housewares', 'baby'})"
+1.0583466508620234e-05,"frozenset({'la_cuisine', 'baby'})"
+1.0583466508620234e-05,"frozenset({'luggage_accessories', 'baby'})"
+1.0583466508620234e-05,"frozenset({'signaling_and_security', 'baby'})"
+1.0583466508620234e-05,"frozenset({'sports_leisure', 'baby'})"
+0.00020108586366378444,"frozenset({'baby', 'toys'})"
+1.0583466508620234e-05,"frozenset({'watches_gifts', 'baby'})"
+1.0583466508620234e-05,"frozenset({'bed_bath_table', 'computers_accessories'})"
+1.0583466508620234e-05,"frozenset({'bed_bath_table', 'construction_tools_construction'})"
+1.0583466508620234e-05,"frozenset({'construction_tools_lights', 'bed_bath_table'})"
+1.0583466508620234e-05,"frozenset({'bed_bath_table', 'construction_tools_safety'})"
+0.00010583466508620233,"frozenset({'bed_bath_table', 'cool_stuff'})"
+2.1166933017240467e-05,"frozenset({'costruction_tools_garden', 'bed_bath_table'})"
+2.1166933017240467e-05,"frozenset({'bed_bath_table', 'electronics'})"
+1.0583466508620234e-05,"frozenset({'bed_bath_table', 'food'})"
+1.0583466508620234e-05,"frozenset({'furniture_bedroom', 'bed_bath_table'})"
+0.0007302591890947961,"frozenset({'bed_bath_table', 'furniture_decor'})"
+2.1166933017240467e-05,"frozenset({'furniture_living_room', 'bed_bath_table'})"
+4.2333866034480934e-05,"frozenset({'bed_bath_table', 'garden_tools'})"
+0.00011641813159482257,"frozenset({'health_beauty', 'bed_bath_table'})"
+1.0583466508620234e-05,"frozenset({'home_appliances_2', 'bed_bath_table'})"
+0.00045508905987067005,"frozenset({'home_confort', 'bed_bath_table'})"
+0.00021166933017240466,"frozenset({'bed_bath_table', 'housewares'})"
+1.0583466508620234e-05,"frozenset({'bed_bath_table', 'kitchen_dining_laundry_garden_furniture'})"
+2.1166933017240467e-05,"frozenset({'market_place', 'bed_bath_table'})"
+5.2917332543101164e-05,"frozenset({'office_furniture', 'bed_bath_table'})"
+1.0583466508620234e-05,"frozenset({'bed_bath_table', 'party_supplies'})"
+1.0583466508620234e-05,"frozenset({'bed_bath_table', 'perfumery'})"
+1.0583466508620234e-05,"frozenset({'bed_bath_table', 'pet_shop'})"
+1.0583466508620234e-05,"frozenset({'sports_leisure', 'bed_bath_table'})"
+2.1166933017240467e-05,"frozenset({'bed_bath_table', 'toys'})"
+1.0583466508620234e-05,"frozenset({'books_general_interest', 'cool_stuff'})"
+1.0583466508620234e-05,"frozenset({'books_general_interest', 'housewares'})"
+2.1166933017240467e-05,"frozenset({'books_general_interest', 'market_place'})"
+1.0583466508620234e-05,"frozenset({'costruction_tools_garden', 'books_technical'})"
+1.0583466508620234e-05,"frozenset({'furniture_decor', 'books_technical'})"
+1.0583466508620234e-05,"frozenset({'health_beauty', 'books_technical'})"
+1.0583466508620234e-05,"frozenset({'books_technical', 'music'})"
+1.0583466508620234e-05,"frozenset({'cine_photo', 'cool_stuff'})"
+1.0583466508620234e-05,"frozenset({'cine_photo', 'sports_leisure'})"
+1.0583466508620234e-05,"frozenset({'cine_photo', 'telephony'})"
+1.0583466508620234e-05,"frozenset({'computers', 'furniture_decor'})"
+1.0583466508620234e-05,"frozenset({'consoles_games', 'computers_accessories'})"
+1.0583466508620234e-05,"frozenset({'construction_tools_construction', 'computers_accessories'})"
+1.0583466508620234e-05,"frozenset({'computers_accessories', 'construction_tools_safety'})"
+5.2917332543101164e-05,"frozenset({'cool_stuff', 'computers_accessories'})"
+1.0583466508620234e-05,"frozenset({'dvds_blu_ray', 'computers_accessories'})"
+5.2917332543101164e-05,"frozenset({'electronics', 'computers_accessories'})"
+1.0583466508620234e-05,"frozenset({'furniture_decor', 'computers_accessories'})"
+8.466773206896187e-05,"frozenset({'computers_accessories', 'garden_tools'})"
+1.0583466508620234e-05,"frozenset({'health_beauty', 'computers_accessories'})"
+1.0583466508620234e-05,"frozenset({'home_construction', 'computers_accessories'})"
+4.2333866034480934e-05,"frozenset({'computers_accessories', 'housewares'})"
+2.1166933017240467e-05,"frozenset({'computers_accessories', 'luggage_accessories'})"
+1.0583466508620234e-05,"frozenset({'office_furniture', 'computers_accessories'})"
+3.17503995258607e-05,"frozenset({'sports_leisure', 'computers_accessories'})"
+2.1166933017240467e-05,"frozenset({'computers_accessories', 'stationery'})"
+1.0583466508620234e-05,"frozenset({'computers_accessories', 'tablets_printing_image'})"
+6.35007990517214e-05,"frozenset({'telephony', 'computers_accessories'})"
+1.0583466508620234e-05,"frozenset({'watches_gifts', 'computers_accessories'})"
+1.0583466508620234e-05,"frozenset({'consoles_games', 'cool_stuff'})"
+1.0583466508620234e-05,"frozenset({'consoles_games', 'housewares'})"
+1.0583466508620234e-05,"frozenset({'consoles_games', 'pet_shop'})"
+1.0583466508620234e-05,"frozenset({'consoles_games', 'sports_leisure'})"
+2.1166933017240467e-05,"frozenset({'consoles_games', 'toys'})"
+1.0583466508620234e-05,"frozenset({'furniture_decor', 'construction_tools_construction'})"
+5.2917332543101164e-05,"frozenset({'construction_tools_construction', 'garden_tools'})"
+1.0583466508620234e-05,"frozenset({'health_beauty', 'construction_tools_construction'})"
+1.0583466508620234e-05,"frozenset({'construction_tools_construction', 'housewares'})"
+1.0583466508620234e-05,"frozenset({'construction_tools_construction', 'kitchen_dining_laundry_garden_furniture'})"
+1.0583466508620234e-05,"frozenset({'pet_shop', 'construction_tools_construction'})"
+1.0583466508620234e-05,"frozenset({'construction_tools_construction', 'toys'})"
+1.0583466508620234e-05,"frozenset({'watches_gifts', 'construction_tools_construction'})"
+1.0583466508620234e-05,"frozenset({'costruction_tools_garden', 'construction_tools_lights'})"
+0.00011641813159482257,"frozenset({'construction_tools_lights', 'furniture_decor'})"
+1.0583466508620234e-05,"frozenset({'construction_tools_lights', 'garden_tools'})"
+1.0583466508620234e-05,"frozenset({'home_construction', 'construction_tools_lights'})"
+3.17503995258607e-05,"frozenset({'sports_leisure', 'construction_tools_lights'})"
+2.1166933017240467e-05,"frozenset({'cool_stuff', 'construction_tools_safety'})"
+2.1166933017240467e-05,"frozenset({'home_construction', 'construction_tools_safety'})"
+4.2333866034480934e-05,"frozenset({'cool_stuff', 'furniture_decor'})"
+2.1166933017240467e-05,"frozenset({'health_beauty', 'cool_stuff'})"
+1.0583466508620234e-05,"frozenset({'home_construction', 'cool_stuff'})"
+1.0583466508620234e-05,"frozenset({'cool_stuff', 'housewares'})"
+1.0583466508620234e-05,"frozenset({'sports_leisure', 'cool_stuff'})"
+2.1166933017240467e-05,"frozenset({'cool_stuff', 'tablets_printing_image'})"
+6.35007990517214e-05,"frozenset({'cool_stuff', 'telephony'})"
+7.408426556034164e-05,"frozenset({'cool_stuff', 'toys'})"
+2.1166933017240467e-05,"frozenset({'watches_gifts', 'cool_stuff'})"
+1.0583466508620234e-05,"frozenset({'costruction_tools_garden', 'flowers'})"
+1.0583466508620234e-05,"frozenset({'costruction_tools_garden', 'garden_tools'})"
+1.0583466508620234e-05,"frozenset({'home_construction', 'costruction_tools_garden'})"
+1.0583466508620234e-05,"frozenset({'costruction_tools_garden', 'pet_shop'})"
+1.0583466508620234e-05,"frozenset({'costruction_tools_garden', 'telephony'})"
+3.17503995258607e-05,"frozenset({'health_beauty', 'drinks'})"
+2.1166933017240467e-05,"frozenset({'drinks', 'housewares'})"
+2.1166933017240467e-05,"frozenset({'sports_leisure', 'drinks'})"
+1.0583466508620234e-05,"frozenset({'dvds_blu_ray', 'housewares'})"
+1.0583466508620234e-05,"frozenset({'electronics', 'food'})"
+2.1166933017240467e-05,"frozenset({'furniture_decor', 'electronics'})"
+1.0583466508620234e-05,"frozenset({'electronics', 'garden_tools'})"
+1.0583466508620234e-05,"frozenset({'home_construction', 'electronics'})"
+1.0583466508620234e-05,"frozenset({'electronics', 'housewares'})"
+1.0583466508620234e-05,"frozenset({'electronics', 'luggage_accessories'})"
+2.1166933017240467e-05,"frozenset({'electronics', 'perfumery'})"
+1.0583466508620234e-05,"frozenset({'small_appliances', 'electronics'})"
+1.0583466508620234e-05,"frozenset({'sports_leisure', 'electronics'})"
+2.1166933017240467e-05,"frozenset({'telephony', 'electronics'})"
+2.1166933017240467e-05,"frozenset({'watches_gifts', 'electronics'})"
+1.0583466508620234e-05,"frozenset({'fashion_sport', 'fashio_female_clothing'})"
+2.1166933017240467e-05,"frozenset({'fashion_bags_accessories', 'fashion_childrens_clothes'})"
+1.0583466508620234e-05,"frozenset({'fashion_sport', 'fashion_bags_accessories'})"
+1.0583466508620234e-05,"frozenset({'health_beauty', 'fashion_bags_accessories'})"
+1.0583466508620234e-05,"frozenset({'fashion_bags_accessories', 'musical_instruments'})"
+2.1166933017240467e-05,"frozenset({'fashion_bags_accessories', 'stationery'})"
+1.0583466508620234e-05,"frozenset({'food', 'fixed_telephony'})"
+1.0583466508620234e-05,"frozenset({'telephony', 'fixed_telephony'})"
+1.0583466508620234e-05,"frozenset({'furniture_decor', 'flowers'})"
+3.17503995258607e-05,"frozenset({'health_beauty', 'food'})"
+1.0583466508620234e-05,"frozenset({'pet_shop', 'food'})"
+1.0583466508620234e-05,"frozenset({'sports_leisure', 'food'})"
+2.1166933017240467e-05,"frozenset({'food_drink', 'housewares'})"
+2.1166933017240467e-05,"frozenset({'sports_leisure', 'food_drink'})"
+1.0583466508620234e-05,"frozenset({'furniture_bedroom', 'furniture_decor'})"
+7.408426556034164e-05,"frozenset({'furniture_living_room', 'furniture_decor'})"
+0.00016933546413792374,"frozenset({'furniture_decor', 'garden_tools'})"
+3.17503995258607e-05,"frozenset({'health_beauty', 'furniture_decor'})"
+6.35007990517214e-05,"frozenset({'home_confort', 'furniture_decor'})"
+0.00013758506461206303,"frozenset({'home_construction', 'furniture_decor'})"
+0.0002540031962068856,"frozenset({'furniture_decor', 'housewares'})"
+2.1166933017240467e-05,"frozenset({'industry_commerce_and_business', 'furniture_decor'})"
+1.0583466508620234e-05,"frozenset({'furniture_decor', 'kitchen_dining_laundry_garden_furniture'})"
+3.17503995258607e-05,"frozenset({'market_place', 'furniture_decor'})"
+1.0583466508620234e-05,"frozenset({'furniture_decor', 'musical_instruments'})"
+4.2333866034480934e-05,"frozenset({'office_furniture', 'furniture_decor'})"
+2.1166933017240467e-05,"frozenset({'furniture_decor', 'perfumery'})"
+2.1166933017240467e-05,"frozenset({'pet_shop', 'furniture_decor'})"
+1.0583466508620234e-05,"frozenset({'small_appliances', 'furniture_decor'})"
+3.17503995258607e-05,"frozenset({'sports_leisure', 'furniture_decor'})"
+2.1166933017240467e-05,"frozenset({'furniture_decor', 'stationery'})"
+6.35007990517214e-05,"frozenset({'watches_gifts', 'furniture_decor'})"
+1.0583466508620234e-05,"frozenset({'furniture_living_room', 'garden_tools'})"
+3.17503995258607e-05,"frozenset({'furniture_living_room', 'office_furniture'})"
+1.0583466508620234e-05,"frozenset({'furniture_living_room', 'toys'})"
+7.408426556034164e-05,"frozenset({'home_construction', 'garden_tools'})"
+0.00011641813159482257,"frozenset({'garden_tools', 'housewares'})"
+1.0583466508620234e-05,"frozenset({'luggage_accessories', 'garden_tools'})"
+1.0583466508620234e-05,"frozenset({'pet_shop', 'garden_tools'})"
+3.17503995258607e-05,"frozenset({'sports_leisure', 'garden_tools'})"
+2.1166933017240467e-05,"frozenset({'stationery', 'garden_tools'})"
+1.0583466508620234e-05,"frozenset({'telephony', 'garden_tools'})"
+2.1166933017240467e-05,"frozenset({'watches_gifts', 'garden_tools'})"
+1.0583466508620234e-05,"frozenset({'health_beauty', 'housewares'})"
+2.1166933017240467e-05,"frozenset({'health_beauty', 'luggage_accessories'})"
+2.1166933017240467e-05,"frozenset({'health_beauty', 'market_place'})"
+0.0001270015981034428,"frozenset({'health_beauty', 'perfumery'})"
+1.0583466508620234e-05,"frozenset({'health_beauty', 'pet_shop'})"
+1.0583466508620234e-05,"frozenset({'small_appliances', 'health_beauty'})"
+0.00014816853112068328,"frozenset({'sports_leisure', 'health_beauty'})"
+4.2333866034480934e-05,"frozenset({'health_beauty', 'stationery'})"
+2.1166933017240467e-05,"frozenset({'health_beauty', 'telephony'})"
+1.0583466508620234e-05,"frozenset({'health_beauty', 'toys'})"
+3.17503995258607e-05,"frozenset({'watches_gifts', 'health_beauty'})"
+1.0583466508620234e-05,"frozenset({'home_comfort_2', 'musical_instruments'})"
+1.0583466508620234e-05,"frozenset({'home_confort', 'housewares'})"
+1.0583466508620234e-05,"frozenset({'watches_gifts', 'home_confort'})"
+2.1166933017240467e-05,"frozenset({'home_construction', 'housewares'})"
+1.0583466508620234e-05,"frozenset({'industry_commerce_and_business', 'housewares'})"
+2.1166933017240467e-05,"frozenset({'kitchen_dining_laundry_garden_furniture', 'housewares'})"
+2.1166933017240467e-05,"frozenset({'market_place', 'housewares'})"
+1.0583466508620234e-05,"frozenset({'perfumery', 'housewares'})"
+1.0583466508620234e-05,"frozenset({'small_appliances', 'housewares'})"
+0.00011641813159482257,"frozenset({'sports_leisure', 'housewares'})"
+4.2333866034480934e-05,"frozenset({'stationery', 'housewares'})"
+2.1166933017240467e-05,"frozenset({'watches_gifts', 'housewares'})"
+1.0583466508620234e-05,"frozenset({'industry_commerce_and_business', 'office_furniture'})"
+1.0583466508620234e-05,"frozenset({'kitchen_dining_laundry_garden_furniture', 'toys'})"
+1.0583466508620234e-05,"frozenset({'luggage_accessories', 'musical_instruments'})"
+5.2917332543101164e-05,"frozenset({'luggage_accessories', 'stationery'})"
+1.0583466508620234e-05,"frozenset({'telephony', 'luggage_accessories'})"
+1.0583466508620234e-05,"frozenset({'market_place', 'musical_instruments'})"
+1.0583466508620234e-05,"frozenset({'market_place', 'perfumery'})"
+1.0583466508620234e-05,"frozenset({'perfumery', 'music'})"
+1.0583466508620234e-05,"frozenset({'musical_instruments', 'toys'})"
+1.0583466508620234e-05,"frozenset({'watches_gifts', 'musical_instruments'})"
+2.1166933017240467e-05,"frozenset({'sports_leisure', 'office_furniture'})"
+1.0583466508620234e-05,"frozenset({'pet_shop', 'perfumery'})"
+3.17503995258607e-05,"frozenset({'sports_leisure', 'perfumery'})"
+2.1166933017240467e-05,"frozenset({'perfumery', 'toys'})"
+1.0583466508620234e-05,"frozenset({'watches_gifts', 'perfumery'})"
+1.0583466508620234e-05,"frozenset({'sports_leisure', 'pet_shop'})"
+1.0583466508620234e-05,"frozenset({'small_appliances', 'sports_leisure'})"
+1.0583466508620234e-05,"frozenset({'small_appliances', 'telephony'})"
+1.0583466508620234e-05,"frozenset({'sports_leisure', 'stationery'})"
+4.2333866034480934e-05,"frozenset({'sports_leisure', 'toys'})"
+5.2917332543101164e-05,"frozenset({'watches_gifts', 'sports_leisure'})"
+6.35007990517214e-05,"frozenset({'stationery', 'toys'})"
+2.1166933017240467e-05,"frozenset({'watches_gifts', 'stationery'})"
+1.0583466508620234e-05,"frozenset({'telephony', 'toys'})"
+2.1166933017240467e-05,"frozenset({'watches_gifts', 'telephony'})"
+1.0583466508620234e-05,"frozenset({'watches_gifts', 'toys'})"
+1.0583466508620234e-05,"frozenset({'bed_bath_table', 'cool_stuff', 'auto'})"
+1.0583466508620234e-05,"frozenset({'fashion_bags_accessories', 'musical_instruments', 'auto'})"
+1.0583466508620234e-05,"frozenset({'bed_bath_table', 'cool_stuff', 'baby'})"
+1.0583466508620234e-05,"frozenset({'bed_bath_table', 'furniture_decor', 'baby'})"
+1.0583466508620234e-05,"frozenset({'construction_tools_lights', 'bed_bath_table', 'garden_tools'})"
+1.0583466508620234e-05,"frozenset({'home_confort', 'bed_bath_table', 'furniture_decor'})"
+1.0583466508620234e-05,"frozenset({'office_furniture', 'bed_bath_table', 'furniture_decor'})"
+1.0583466508620234e-05,"frozenset({'market_place', 'bed_bath_table', 'perfumery'})"
+1.0583466508620234e-05,"frozenset({'cine_photo', 'cool_stuff', 'telephony'})"
+1.0583466508620234e-05,"frozenset({'home_construction', 'cool_stuff', 'computers_accessories'})"
+1.0583466508620234e-05,"frozenset({'sports_leisure', 'computers_accessories', 'health_beauty'})"
+1.0583466508620234e-05,"frozenset({'home_construction', 'furniture_decor', 'garden_tools'})"
+1.0583466508620234e-05,"frozenset({'home_construction', 'furniture_decor', 'housewares'})"
+1.0583466508620234e-05,"frozenset({'watches_gifts', 'furniture_decor', 'housewares'})"
+1.0583466508620234e-05,"frozenset({'sports_leisure', 'pet_shop', 'furniture_decor'})"
